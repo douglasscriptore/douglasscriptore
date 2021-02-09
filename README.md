@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on RPC
+- 🔭 I’m currently working on RPC - Paraná Communication Network
 - 🌱 I’m currently learning React, Node and NextJS with TypeScript
 
 
