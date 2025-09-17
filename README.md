@@ -4,7 +4,7 @@ Hi 👋 My name is Douglas Scriptore
 Senior Software Engineer
 ------------------------
 
-* 🌍  I'm based in Paranavaí state of Paraná
+* 🌍  I'm based in Curitiba state of Paraná
 * ✉️  You can contact me at [douglasscriptore@gmail.com](mailto:douglasscriptore@gmail.com)
 
 ### Skills
